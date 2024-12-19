@@ -21,12 +21,12 @@ repository               : "YuhangLiuu/YuhangLiuu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "yuhang.png"
   name             : "Yuhang Liu"
-  pronouns         : "he/his"  
+  pronouns         : #"he/his"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Chengdu, Sichuan, China"
-  employer         : "UESTC"
+  employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
   email            : "yuhangliu_ce@163.com" 
 
