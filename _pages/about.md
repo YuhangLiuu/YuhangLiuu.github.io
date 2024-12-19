@@ -10,4 +10,5 @@ redict_from:
 
 I'm a fourth year undergraduate student from
 
-{% include publications.html %}
+NEWS
+-----
