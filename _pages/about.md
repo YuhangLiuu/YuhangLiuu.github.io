@@ -8,7 +8,10 @@ redict_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from
+I'm a third year undergraduate student from School of Information and Communication Engineering, University of Electronic Science and Technology of China. I am excited to embark on my graduate studies at School of Information Science and Technology, Fudan University in 2025. My research interest includes computer vision, machine learning, and wireless communication.
 
-NEWS
------
+You can find my CV here: [YuhangLiu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](mailto:yuhangliu_ce@163.com) / [Github](https://github.com/YuhangLiuu)
+
+
