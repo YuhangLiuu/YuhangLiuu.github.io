@@ -13,5 +13,5 @@ I'm a third year undergraduate student from School of Information and Communicat
 You can find my CV here: [YuhangLiu's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 [Email](mailto:yuhangliu_ce@163.com) / [Github](https://github.com/YuhangLiuu)
-
+{% include base_path %}
 {% include education.html %}
