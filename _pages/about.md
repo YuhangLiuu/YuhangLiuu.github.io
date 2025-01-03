@@ -14,4 +14,4 @@ You can find my CV here: [YuhangLiu's Curriculum Vitae](../assets/Curriculum_Vit
 
 [Email](mailto:yuhangliu_ce@163.com) / [Github](https://github.com/YuhangLiuu)
 
-
+{% include education.html %}
